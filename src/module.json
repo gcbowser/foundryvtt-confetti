@@ -55,10 +55,10 @@
 			"link": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-confetti/master/readme-img/confetti-demo.gif"
 		}
 	],
-	"bugs": "https://github.com/ElfFriend-DnD/foundryvtt-confetti/issues",
-	"changelog": "https://github.com/ElfFriend-DnD/foundryvtt-confetti/releases",
-	"download": "https://github.com/ElfFriend-DnD/foundryvtt-confetti/releases/download/v1.0.5/module.zip",
-	"manifest": "https://github.com/ElfFriend-DnD/foundryvtt-confetti/releases/latest/download/module.json",
-	"readme": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-confetti/main/README.md",
-	"url": "https://github.com/ElfFriend-DnD/foundryvtt-confetti"
+	"bugs": "https://github.com/gcbowser/foundryvtt-confetti/issues",
+	"changelog": "https://github.com/gcbowser/foundryvtt-confetti/releases",
+	"download": "https://github.com/gcbowser/foundryvtt-confetti/releases/download/v1.0.5/module.zip",
+	"manifest": "https://github.com/gcbowser/foundryvtt-confetti/releases/latest/download/module.json",
+	"readme": "https://raw.githubusercontent.com/gcbowser/foundryvtt-confetti/main/README.md",
+	"url": "https://github.com/gcbowser/foundryvtt-confetti"
 }
