@@ -3,12 +3,12 @@
 	"title": "Confetti",
 	"description": "Everyone loves confetti.",
 	"version": "1.0.5",
-	"author": "Andrew Krigline (akrigline)",
+	"author": "Michael Sidman",
 	"authors": [
 		{
-			"name": "Andrew Krigline",
-			"discord": "Calego#0914",
-			"url": "https://github.com/ElfFriend-DnD"
+			"name": "Not for Distribution",
+			"discord": "",
+			"url": ""
 		}
 	],
 	"esmodules": [
@@ -40,19 +40,19 @@
 	"media": [
 		{
 			"type": "cover",
-			"link": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-confetti/master/readme-img/cover-image.png"
+			"link": "https://raw.githubusercontent.com/gcbowser/foundryvtt-confetti/master/readme-img/cover-image.png"
 		},
 		{
 			"type": "screenshot",
-			"link": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-confetti/master/readme-img/confetti-popped.jpg"
+			"link": "https://raw.githubusercontent.com/gcbowser/foundryvtt-confetti/master/readme-img/confetti-popped.jpg"
 		},
 		{
 			"type": "screenshot",
-			"link": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-confetti/master/readme-img/confetti-menu.jpg"
+			"link": "https://raw.githubusercontent.com/gcbowser/foundryvtt-confetti/master/readme-img/confetti-menu.jpg"
 		},
 		{
 			"type": "screenshot",
-			"link": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-confetti/master/readme-img/confetti-demo.gif"
+			"link": "https://raw.githubusercontent.com/gcbowser/foundryvtt-confetti/master/readme-img/confetti-demo.gif"
 		}
 	],
 	"bugs": "https://github.com/gcbowser/foundryvtt-confetti/issues",
